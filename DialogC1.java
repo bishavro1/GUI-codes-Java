@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane; 
-public class Dialog1
+public class Dialog
 {
     public static void main(String[] args)
     {
